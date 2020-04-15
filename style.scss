@@ -20,7 +20,7 @@ html {
 body {
 	background: $white;
   	color: $darkGray;
-  	font-family: monospace; 
+  	font-family: $monospace; 
   	font-size: 12px; 
 	font-style: normal; 
 	font-variant: normal; 
@@ -48,11 +48,11 @@ h1, h2, h3, h4, h5, h6 {
   }
 }
 
-h1 { font-family: monospace; font-size: 24px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 26.4px; } 
-h3 { font-family: monospace; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 15.4px; } 
-p { font-family: monospace; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 20px; } 
-blockquote { font-family: monospace; font-size: 21px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 30px; } 
-pre { font-family: monospace; font-size: 13px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 18.5714px; }
+h1 { font-family: $monospace; font-size: 24px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 26.4px; } 
+h3 { font-family: $monospace; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 15.4px; } 
+p { font-family: $monospace; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 20px; } 
+blockquote { font-family: $monospace; font-size: 21px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 30px; } 
+pre { font-family: $monospace; font-size: 13px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 18.5714px; }
 
 p {
   margin: 15px 0;
@@ -184,7 +184,7 @@ img {
   margin: 0;
   color: $darkGray;
   cursor: pointer;
-  font-family: monospace;
+  font-family: $monospace;
   font-weight: 300;
   font-size: 28px;
   letter-spacing: 1px;
@@ -203,7 +203,7 @@ img {
 nav {
   float: right;
   margin-top: 23px; // @TODO: Vertically middle align
-  font-family: monospace;
+  font-family: $monospace;
   font-size: 18px;
 
   @include mobile {
