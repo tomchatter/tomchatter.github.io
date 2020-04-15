@@ -192,9 +192,9 @@ img {
 
 .site-description {
   margin: -5px 0 0 0;
+  font-family: "Trebuchet MS", Helvetica, sans-serif;
   color: $gray;
   font-size: 16px;
-
   @include mobile {
     margin: 3px 0;
   }
