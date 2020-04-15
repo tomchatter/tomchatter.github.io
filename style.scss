@@ -19,8 +19,13 @@ html {
 
 body {
 	background: $white;
-  font: 18px/1.4 $helvetica;
-  color: $darkGray;
+  	color: $darkGray;
+  	font-family: monospace; 
+  	font-size: 12px; 
+	font-style: normal; 
+	font-variant: normal; 
+	font-weight: 500; 
+	line-height: 26.4px; } 
 }
 
 .container {
