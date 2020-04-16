@@ -3,7 +3,6 @@ title: It's Time
 layout: post
 published: true
 permalink:
-date:
 category: dross 
 categories: 
 tags: writing 
