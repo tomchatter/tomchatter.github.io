@@ -9,7 +9,7 @@ name: tomchatter
 description: research dross
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: ({{ site.baseurl }}/images/dross-logo-2a.png)
+# avatar: ({{ site.baseurl }}/images/dross-logo-2a.png)
 
 #
 # Flags below are optional
