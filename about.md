@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
   
-#Tomas Ciucelis
+# Tomas Ciucelis
   
 Philosophy researcher and translator by day, jazz guitar performer by night. Member of the Scottish Centre for Continental Philosophy. Based in Scotland.
   
