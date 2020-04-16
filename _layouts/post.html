@@ -4,13 +4,14 @@ layout: default
 
 <article class="post">
   <div class="post-title">{{ page.title }}</div>
+  <div class="time-stamp"><B>FILED UNDER: </B> {{ page.category}} </div>
   <div class="time-stamp">{{ page.date  | date: "%B %e, %Y" }}</div>
 
   <div class="entry">
     {{ content }}
   </div>
   
-  <div class="time-stamp"><b>TAG CLOUD:</b> {{ page.category}} | {{ page.tags }}</div>
+  <div class="time-stamp"><b>TAG CLOUD:</b> {{ page.tags }}</div>
 
 <!--  <div class="date">
     Written on {{ page.date | date: "%B %e, %Y" }}
