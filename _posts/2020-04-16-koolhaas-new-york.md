@@ -8,7 +8,7 @@ categories:
 tags: [translation,Rem-Koolhaas]
 ---
 
-Got contacted by a publisher recently. Rem Koolhaas' book on the contemporary architecture of Manhattan. They are very eager to publish this book in Lithuania, and I can see why. So here's to another translation project.
+Got contacted by a publisher recently. Rem Koolhaas' book on the contemporary architecture of Manhattan. They are very eager to publish this book in Lithuania. I can see why: the book has been a bestseller since its first edition. So here's to another translation project.
   
 the principle of congestion
 
